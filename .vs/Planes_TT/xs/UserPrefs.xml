@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A87AD296-16B2-6076-B455-DDA032ADEB19}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/View/UIView.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/Config.cs" Line="4" Column="48" />
+      <File FileName="Assets/Game/Scripts/Controller/GameController.cs" Line="34" Column="40" />
+      <File FileName="Assets/Game/Scripts/Model/GameModel.cs" Line="6" Column="31" />
+      <File FileName="Assets/Game/Scripts/Model/PlaneModel.cs" Line="21" Column="1" />
+      <File FileName="Assets/Game/Scripts/View/PlaneView.cs" Line="85" Column="6" />
+      <File FileName="Assets/Game/Scripts/View/GameView.cs" Line="23" Column="17" />
+      <File FileName="Assets/Game/Scripts/Controller/PlanesController.cs" Line="17" Column="38" />
+      <File FileName="Assets/Game/Scripts/Events/PlaneEvents.cs" Line="4" Column="59" />
+      <File FileName="Assets/Game/Scripts/Events/GameEvents.cs" Line="5" Column="1" />
+      <File FileName="Assets/Game/Scripts/View/UIView.cs" Line="31" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
